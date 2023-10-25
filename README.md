@@ -15,7 +15,13 @@ Here are some of the languages and tools I'm familiar with:
 
 ![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/java-free-download-free-png%20(Custom)%20(1).png?raw=true)  ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/pngimg.com%20-%20mysql_PNG9%20(Custom).png?raw=true)
 
+
+
+##🧠 What I'm Learning:
+I'm currently expanding my skills by learning Hibernate for object-relational mapping, Jersey for building RESTful web services, and Maven for project management and build automation.
+
 Feel free to explore my repositories to see some of my projects and what I'm currently working on. If you have any questions or want to collaborate on a project, don't hesitate to reach out.
+
 
 ## 📫 Get in Touch
 
