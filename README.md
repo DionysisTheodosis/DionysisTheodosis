@@ -6,7 +6,8 @@ I'm a Computer Engineering student at the University of the Aegean 🎓. I'm pas
 
 Here are some of the languages and tools I'm familiar with:
 
-- ![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/bf476340-2cdc-47a1-9ce9-63de50b914bb)  ![c_original_logo_icon_146611 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/906a0adf-9d7a-48a6-b1a8-2ef8d150d1c9)    ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/2508579c-f342-4a7c-8965-456ddd679c89)      ![logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/44cf6f6f-07f0-4dc7-bc95-6c8a24c9f234)  ![94927-middle (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/7c750e69-c02f-42ae-9706-59742aae7941)
+- ![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/bf476340-2cdc-47a1-9ce9-63de50b914bb)  ![c_original_logo_icon_146611 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/906a0adf-9d7a-48a6-b1a8-2ef8d150d1c9)    ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/2508579c-f342-4a7c-8965-456ddd679c89)      ![logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/44cf6f6f-07f0-4dc7-bc95-6c8a24c9f234)  ![github_git_hub_logo_icon_132878 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/c7a8fe53-4e19-4046-9c1d-cafd0a5e0af5)
+
 
 
 
