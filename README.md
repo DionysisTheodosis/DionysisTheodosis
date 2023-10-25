@@ -6,7 +6,8 @@ I'm a Computer Engineering student at the University of the Aegean 🎓. I'm pas
 
 Here are some of the languages and tools I'm familiar with:
 
-- 💻 Java
+- ![java-free-download-free-png (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/5789f4ed-4f3a-4df0-ba1f-ebaf1fa43628)
+
 - 🚀 Git
 
 ## 💡 What I'm Into
