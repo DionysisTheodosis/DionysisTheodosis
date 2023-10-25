@@ -15,7 +15,7 @@ Here are some of the languages and tools I'm familiar with:
 
 I have more experience with:
 
-![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/bf476340-2cdc-47a1-9ce9-63de50b914bb) 
+![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/bf476340-2cdc-47a1-9ce9-63de50b914bb)  ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/2508579c-f342-4a7c-8965-456ddd679c89)
 
 Feel free to explore my repositories to see some of my projects and what I'm currently working on. If you have any questions or want to collaborate on a project, don't hesitate to reach out.
 
