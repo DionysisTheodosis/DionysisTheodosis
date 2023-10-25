@@ -11,9 +11,7 @@ Here are some of the languages and tools I'm familiar with:
 
 
 
-## 💡 What I'm Into
-
-I have more experience with:
+## 💡Expertise and Focus:
 
 ![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/java-free-download-free-png%20(Custom)%20(1).png?raw=true)  ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/pngimg.com%20-%20mysql_PNG9%20(Custom).png?raw=true)
 
