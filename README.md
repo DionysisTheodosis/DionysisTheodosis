@@ -17,7 +17,8 @@ Here are some of the languages and tools I'm familiar with:
 
 
 
-##🧠 What I'm Learning:
+## 🧠 What I'm Learning:
+
 I'm currently expanding my skills by learning Hibernate for object-relational mapping, Jersey for building RESTful web services, and Maven for project management and build automation.
 
 Feel free to explore my repositories to see some of my projects and what I'm currently working on. If you have any questions or want to collaborate on a project, don't hesitate to reach out.
