@@ -34,4 +34,4 @@ Feel free to explore my repositories to see some of my projects and what I'm cur
 ## 📫 Get in Touch
 
 📧 Email: theo_187@hotmail.com
-Let's connect and build amazing things together! 🌟
+
