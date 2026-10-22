@@ -1,37 +1,67 @@
 # Hi, I'm Dionysis Theodosis 👋
 
-I'm a Computer Engineering student at the University of the Aegean 🎓. I'm passionate about exploring the world of technology and software development. Welcome to my GitHub profile!
+🎓 Computer Engineering student at the University of the Aegean  
+💻 Focused on **Java Backend Development** with Spring Boot  
+🚀 Currently exploring **Microservices Architecture**, Event-Driven Systems, and Domain-Driven Design.
 
-## 🚀 Languages and Tools
+I enjoy building backend applications with a focus on clean code, secure APIs, data consistency, and maintainable architecture.
 
-Here are some of the languages and tools I'm familiar with:
+## 🛠️ Tech Stack
 
-![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/java-free-download-free-png%20(Custom)%20(1).png?raw=true)  ![c_original_logo_icon_146611 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/c_original_logo_icon_146611%20(Custom).png?raw=true)  ![C++-Logo wine (Custom) (2)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/C++-Logo.wine%20(Custom)%20(2).png?raw=true)
- ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/pngimg.com%20-%20mysql_PNG9%20(Custom).png?raw=true) ![SQLite370 svg (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/SQLite370.svg%20(Custom)%20(1).png?raw=true) ![logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart%20(Custom).jpg?raw=true)  ![github_git_hub_logo_icon_132878 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/github_git_hub_logo_icon_132878%20(Custom)%20(1).png?raw=true) ![Hibernate_logo_a (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/a8b434ca-31aa-401a-849d-93afeb15ad86)
- ![Glassfish_Jersey (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/27915338-2ab7-46f3-9707-c580bc2be241) ![Apache_Maven_logo svg (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/bdb49eb0-ee7d-4a4c-8bc2-214c943cb6c7) ![ne6903n085-netbeans-logo-netbeans-logo-png-transparent-amp-svg-vector-freebie-supply (Custom) (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/2a301094-f3b4-4638-b98d-5841c281788c)
-   ![png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/assets/63193630/28e7d6b6-4c3d-40e4-a216-a72d90ccc2fe)
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### Tools & Engineering Practices
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
 
+## 🏗️ Currently Exploring
 
+I'm expanding my backend engineering skills by studying and applying:
 
+- **Microservices Architecture** — service boundaries, independent deployment, and inter-service communication.
+- **Apache Kafka** — asynchronous messaging, event-driven architecture, and reliable event processing.
+- **Software Architecture** — Hexagonal Architecture, Domain-Driven Design (DDD), and separation of concerns.
+- **Design Patterns** — applying patterns to solve real engineering problems rather than using them unnecessarily.
+- **Distributed Systems** — transactional outbox, idempotent consumers, retries, resilience, and eventual consistency.
+- **Testing & DevOps** — integration testing with Testcontainers, Docker Compose, and automated CI pipelines.
 
+## 🚀 Featured Project
 
+### Resilient Distributed Order & Logistics Engine (R-DOLE)
 
-## 💡Expertise and Focus:
+A distributed backend system I'm developing to explore the challenges of building reliable, event-driven applications.
 
-![java-free-download-free-png (Custom) (1)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/java-free-download-free-png%20(Custom)%20(1).png?raw=true)  ![pngimg com - mysql_PNG9 (Custom)](https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/pngimg.com%20-%20mysql_PNG9%20(Custom).png?raw=true)
+**Planned technologies and concepts:**
+- Java and Spring Boot
+- Apache Kafka for asynchronous communication
+- PostgreSQL and Spring Data JPA
+- Spring Security and Keycloak
+- Transactional Outbox and idempotent event processing
+- Docker Compose and Testcontainers
+- Hexagonal Architecture and Domain-Driven Design
+- Observability, distributed tracing, and resilience patterns
 
+The main goal is to understand how distributed services handle failures, concurrency, data consistency, and message delivery.
 
+*Project in development — implementation details and completed features will be documented as the project progresses.*
 
-## 🧠 What I'm Learning:
+## 📫 Connect with Me
 
-I'm currently expanding my skills by learning Hibernate for object-relational mapping, Jersey for building RESTful web services, and Maven for project management and build automation.
-
-Feel free to explore my repositories to see some of my projects and what I'm currently working on. If you have any questions or want to collaborate on a project, don't hesitate to reach out.
-
-
-## 📫 Get in Touch
-
-📧 Email: theo_187@hotmail.com
+- GitHub: [@DionysisTheodosis](https://github.com/DionysisTheodosis)
 
