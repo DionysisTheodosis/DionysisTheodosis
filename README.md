@@ -64,5 +64,6 @@ The main goal is to understand how distributed services handle failures, concurr
 
 ## 📫 Connect with Me
 
-- GitHub: [@DionysisTheodosis](https://github.com/DionysisTheodosis)
+- Email: your-email@example.com
+- X: [@dionysis_th](https://x.com/dionysis_th)
 
