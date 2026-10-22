@@ -64,6 +64,6 @@ The main goal is to understand how distributed services handle failures, concurr
 
 ## 📫 Connect with Me
 
-- Email: your-email@example.com
+- Email: theo_187@hotmail.com
 - X: [@dionysis_th](https://x.com/dionysis_th)
 
