@@ -6,7 +6,7 @@
 
 I enjoy building backend applications with a focus on clean code, secure APIs, data consistency, and maintainable architecture.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -31,7 +31,7 @@ I enjoy building backend applications with a focus on clean code, secure APIs, d
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
 
-## 🏗️ Currently Exploring
+## Currently Exploring
 
 I'm expanding my backend engineering skills by studying and applying:
 
@@ -41,26 +41,6 @@ I'm expanding my backend engineering skills by studying and applying:
 - **Design Patterns** — applying patterns to solve real engineering problems rather than using them unnecessarily.
 - **Distributed Systems** — transactional outbox, idempotent consumers, retries, resilience, and eventual consistency.
 - **Testing & DevOps** — integration testing with Testcontainers, Docker Compose, and automated CI pipelines.
-
-## 🚀 Featured Project
-
-### Resilient Distributed Order & Logistics Engine (R-DOLE)
-
-A distributed backend system I'm developing to explore the challenges of building reliable, event-driven applications.
-
-**Planned technologies and concepts:**
-- Java and Spring Boot
-- Apache Kafka for asynchronous communication
-- PostgreSQL and Spring Data JPA
-- Spring Security and Keycloak
-- Transactional Outbox and idempotent event processing
-- Docker Compose and Testcontainers
-- Hexagonal Architecture and Domain-Driven Design
-- Observability, distributed tracing, and resilience patterns
-
-The main goal is to understand how distributed services handle failures, concurrency, data consistency, and message delivery.
-
-*Project in development — implementation details and completed features will be documented as the project progresses.*
 
 ## 📫 Connect with Me
 
